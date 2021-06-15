@@ -1,0 +1,5 @@
+*.json filter=lfs diff=lfs merge=lfs -text
+account_profiles.json filter=lfs diff=lfs merge=lfs -text
+contributions.json filter=lfs diff=lfs merge=lfs -text
+github_profiles.json filter=lfs diff=lfs merge=lfs -text
+grants_profile.json filter=lfs diff=lfs merge=lfs -text
