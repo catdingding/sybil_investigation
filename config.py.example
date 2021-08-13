@@ -1,0 +1,4 @@
+github_token = ''
+gitcoin_cookies = {'sessionid': ''}
+db_connection_string = ""
+etherscan_api_key = ""
